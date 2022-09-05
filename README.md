@@ -1,6 +1,7 @@
 # CS568 - Assignment 1 - ES6
 - Create arrow functions with zero, one, multiple parameters. Return values with/without curly brackets.
-- Create a function and its instances. Add an inherited attribute using prototype.
+- Create a contructor function (remember, constructor functions always start with a capital letter) and its instances. Add a field as a prototype to the constructor function and observe how all existing and new instances inherit the field. Adding a prototype directly to function constructor is not a good practice as it is memory-intensive and adds that field to all the instances. Practice prototype with ```Object.create``` which adds prototype to a specific object.
+- Practice call/bind/apply. Borrow and carry a function.
 - Implement a child class and super class in node JS.
 
 *package.json*
