@@ -1,7 +1,10 @@
 # CS568 - Assignment 1 - ES6
-- Create arrow functions with zero, one, multiple parameters. Return values with/without curly brackets.
-- Practice call/bind/apply. Borrow and carry a function.
-- Implement a child class and super class. NodeJS is the fastest way to execute your code. Refer the following code. You just need package.json.
+
+It is a nice refresher on ES6. There are 6 micrsotasks.
+
+1. Create arrow functions with zero, one, multiple parameters. Return values with/without curly brackets.
+2. Practice call/bind/apply. Borrow and carry a function.
+3. Implement a child class and super class. NodeJS is the fastest way to execute your code. Refer the following code. You just need package.json.
 
 *package.json*
 ```
@@ -47,7 +50,7 @@ console.log(sayHi());
 console.log(minutesInHour);
 ```
 
-- Practice destructuring.
+4. Practice destructuring.
 ```
 function sayHi({name}) ...
 
@@ -58,5 +61,5 @@ const obj = {
 
 sayHi(obj);
 ```
-- Practice spread operator.
-- Practice splice, slice, map, find, findIndex, filter array methods. Write code that finds an element in an array then removes it by its index.
+5. Practice spread operator.
+6. Practice splice, slice, map, find, findIndex, filter array methods. Write code that finds an element in an array then removes it by its index.
