@@ -62,4 +62,5 @@ const obj = {
 sayHi(obj);
 ```
 5. Practice spread operator.
-6. Practice splice, slice, map, find, findIndex, filter array methods. Write code that finds an element in an array then removes it by its index.
+6. Practice splice, slice, map, find, findIndex, filter array methods. 
+7. Write code that **finds an element in an array then removes it by its index**. In this course, you will be writing a simple app with CRUD operations. Do this task seriously and use the same technique in the coming classes.
