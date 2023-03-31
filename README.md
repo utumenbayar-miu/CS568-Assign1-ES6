@@ -74,6 +74,7 @@ The Students object:
   "id": "your student id" // it is unique. You can find an object by this id
   "name": "your name"
 }
+```
 
 The array is consists of the Students objects.
 
