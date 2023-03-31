@@ -68,7 +68,7 @@ sayHi(obj);
 ## Main task
 Write code that **finds an object in an array then removes it by its id**. In this course, you will be writing a simple app with CRUD operations. Do this task seriously and use the same technique in the coming classes.
 
-The Students object:
+The Student object:
 ```
 {
   "id": "your student id" // it is unique. You can find an object by this id
@@ -76,5 +76,5 @@ The Students object:
 }
 ```
 
-The array is consists of the Students objects.
+The array is consists of the Student objects.
 
