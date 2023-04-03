@@ -5,7 +5,7 @@ It is a nice refresher on ES6. There are 6 micrsotasks.
 
 1. Create arrow functions with zero, one, multiple parameters. Return values with/without curly brackets.
 2. Practice call/bind/apply. Borrow and carry a function.
-3. Implement a child class and super class. NodeJS is the fastest way to execute your code. Refer the following code. You just need package.json.
+3. Implement a child class and super class. NodeJS is the fastest way to execute your code. Or in React with this single command `npx create-react-app your-app-name` Refer the following code. You just need package.json.
 
 *package.json*
 ```
