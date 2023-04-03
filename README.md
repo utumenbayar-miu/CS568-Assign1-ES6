@@ -78,3 +78,11 @@ The Student object:
 
 The array is consists of the Student objects.
 
+## Joining git classroom and accepting, submitting the first assignment
+* Login to Git
+* Signup for Git Classroom (classroom.github.com)
+* After signing up for Git, the invitation link works
+* Select yourself from the list of students
+* Then "Accept the assignment" will show up
+* Once you accepted, they configure the repo for you. Maybe refresh the page if it is keep loading, you will see a link.
+* Clone your project, you can use GitDesktop app for that. Commit and push your code. That is it. On my end, your status is submitted (green) when you push your code.
